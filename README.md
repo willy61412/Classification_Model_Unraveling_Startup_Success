@@ -5,6 +5,13 @@
 
 <img width="946" alt="Screenshot 2024-07-07 at 1 23 12 AM" src="https://github.com/willy61412/Classification_Model_Unraveling_Startup_Success/assets/133930618/e238f29f-3a61-4b26-9e56-8fea7cd7b855">
 
+
+
+
+
+
+
+
 - Highlights the most important features for business success as per the logistic regression model, including founding year, city of operations, biotechnology industry involvement, and top 500 company status. 
 - These insights can help executives study market conditions, city demographics, and business opportunities to adapt and thrive in the current environment.
 
