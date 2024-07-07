@@ -1,3 +1,4 @@
+### **Classification Model: Unraveling Startup Success**
 
 
 - Utilizes Naive Bayes, Decision Tree, and Logistic Regression models to analyze factors influencing startup success
