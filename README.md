@@ -7,6 +7,8 @@
 
 <br>
 <br>
+<br>
+<br>
 
 - Highlights the most important features for business success as per the logistic regression model, including founding year, city of operations, biotechnology industry involvement, and top 500 company status. 
 - These insights can help executives study market conditions, city demographics, and business opportunities to adapt and thrive in the current environment.
